@@ -1,0 +1,147 @@
+ejercicio_fiscal,clave_estado,entidad,numero_pescadores_capacitados,nombre_curso
+2014,2,Baja California,64,Basico de Seguridad para Pescadores Riberenos
+2014,2,Baja California,33,Basico de Seguridad para Prestadores de Servicios Turisticos
+2014,7,Chiapas,795,Basico de Seguridad para Pescadores Riberenos
+2014,12,Guerrero,60,Basico de Mantenimiento de Motores Fuera de Borda
+2014,12,Guerrero,132,Basico de Seguridad para Pescadores Riberenos
+2014,12,Guerrero,532,Basico de Seguridad para Pescadores Riberenos
+2014,14,Jalisco,79,Basico de Seguridad para Pescadores Riberenos
+2014,14,Jalisco,46,Basico de Seguridad para Prestadores de Servicios Turisticos
+2014,14,Jalisco,124,Basico de Seguridad para Pescadores Riberenos
+2014,14,Jalisco,121,Basico de Seguridad para Pescadores Riberenos
+2014,14,Jalisco,185,Basico de Seguridad para Pescadores Riberenos
+2014,20,Oaxaca,179,Basico de Seguridad para Pescadores Riberenos
+2014,20,Oaxaca,19,Basico de Seguridad para Pescadores Riberenos
+2014,20,Oaxaca,252,Basico de Seguridad para Pescadores Riberenos
+2014,23,Quintana Roo,177,Basico de Seguridad para Pescadores Riberenos
+2014,23,Quintana Roo,93,Basico de Seguridad para Prestadores de Servicios Turisticos
+2014,25,Sinaloa,292,Basico de Mantenimiento de Motores Fuera de Borda
+2014,25,Sinaloa,120,Basico de Seguridad para Pescadores Riberenos
+2014,25,Sinaloa,249,Basico de Seguridad para Pescadores Riberenos
+2014,25,Sinaloa,282,Basico de Seguridad para Pescadores Riberenos
+2014,25,Sinaloa,44,Basico de Mantenimiento de Motores Fuera de Borda
+2014,25,Sinaloa,145,Basico de Seguridad para Pescadores Riberenos
+2014,25,Sinaloa,28,Basico de Seguridad para Prestadores de Servicios Turisticos
+2014,25,Sinaloa,12,Formacion Basica
+2014,26,Sonora,67,Basico de Mantenimiento de Motores Fuera de Borda
+2014,26,Sonora,104,Basico de Seguridad para Pescadores Riberenos
+2014,26,Sonora,58,Basico de Mantenimiento de Motores Fuera de Borda
+2014,26,Sonora,222,Basico de Seguridad para Pescadores Riberenos
+2014,26,Sonora,75,Basico de Mantenimiento de Motores Fuera de Borda
+2014,26,Sonora,153,Basico de Seguridad para Pescadores Riberenos
+2014,26,Sonora,50,Basico de Mantenimiento de Motores Fuera de Borda
+2014,26,Sonora,263,Basico de Seguridad para Pescadores Riberenos
+2014,26,Sonora,50,Basico de Mantenimiento de Motores Fuera de Borda
+2014,26,Sonora,241,Basico de Seguridad para Pescadores Riberenos
+2014,27,Tabasco,166,Basico de Mantenimiento de Motores Fuera de Borda
+2014,27,Tabasco,61,Basico de Mantenimiento de Motores Fuera de Borda
+2015,2,Baja California,276,Basico de seguiridad para pescadores riberenos
+2015,2,Baja California,71,Basico de seguridad para prestadores de servicios turisticos
+2015,5,Coahuila de Zaragoza de Zaragoza,86,Basico de mantenimiento de motores fuera de borda de dos y cuatro tiempos
+2015,7,Chiapas,773,Basico de seguiridad para pescadores riberenos
+2015,7,Chiapas,23,Basico de mantenimiento de motores fuera de borda de dos y cuatro tiempos
+2015,14,Jalisco,667,Basico de seguiridad para pescadores riberenos
+2015,14,Jalisco,116,Basico de mantenimiento de motores fuera de borda de dos y cuatro tiempos
+2015,20,Oaxaca,326,Basico de seguiridad para pescadores riberenos
+2015,22,Queretaro,158,Basico de seguiridad para pescadores riberenos
+2015,22,Queretaro,16,Basico de mantenimiento de motores fuera de borda de dos y cuatro tiempos
+2015,23,Quintana Roo,18,Basico de mantenimiento de motores fuera de borda de dos y cuatro tiempos
+2015,25,Sinaloa,125,Basico de mantenimiento de motores fuera de borda de dos y cuatro tiempos
+2015,28,Tamaulipas,1143,Basico de seguiridad para pescadores riberenos
+2015,28,Tamaulipas,177,Basico de mantenimiento de motores fuera de borda de dos y cuatro tiempos
+2015,31,Yucatan,1227,Basico de seguiridad para pescadores riberenos
+2016,2,Baja California,38,Basico de mantenimiento de motores fuera de borda de dos y cuatro tiempos
+2016,2,Baja California,62,Basico de seguiridad para pescadores riberenos
+2016,3,Baja California Sur,281,Basico de seguiridad para pescadores riberenos
+2016,3,Baja California Sur,388,Basico de seguiridad para pescadores riberenos
+2016,3,Baja California Sur,58,Basico de seguiridad para pescadores riberenos
+2016,6,Colima,49,Basico de seguiridad para pescadores riberenos
+2016,7,Chiapas,101,Basico de seguiridad para pescadores riberenos
+2016,7,Chiapas,76,Basico de seguiridad para pescadores riberenos
+2016,7,Chiapas,59,Basico de seguiridad para pescadores riberenos
+2016,7,Chiapas,93,Basico de seguiridad para pescadores riberenos
+2016,14,Jalisco,92,Basico de seguiridad para pescadores riberenos
+2016,14,Jalisco,177,Basico de seguiridad para pescadores riberenos
+2016,14,Jalisco,32,Basico de seguiridad para pescadores riberenos
+2016,14,Jalisco,45,Basico de mantenimiento de motores fuera de borda de dos y cuatro tiempos
+2016,15,Mexico,23,Basico de seguiridad para pescadores riberenos
+2016,15,Mexico,19,Basico de seguiridad para pescadores riberenos
+2016,16,Michoacan de Ocampo,118,Basico de seguiridad para pescadores riberenos
+2016,16,Michoacan de Ocampo,102,Basico de seguiridad para pescadores riberenos
+2016,16,Michoacan de Ocampo,93,Basico de seguiridad para pescadores riberenos
+2016,16,Michoacan de Ocampo,119,Basico de seguiridad para pescadores riberenos
+2016,16,Michoacan de Ocampo,66,Basico de seguiridad para pescadores riberenos
+2016,16,Michoacan de Ocampo,89,Basico de seguiridad para pescadores riberenos
+2016,16,Michoacan de Ocampo,85,Basico de seguiridad para pescadores riberenos
+2016,16,Michoacan de Ocampo,50,Basico de mantenimiento de motores fuera de borda de dos y cuatro tiempos
+2016,20,Oaxaca,78,Basico de seguiridad para pescadores riberenos
+2016,20,Oaxaca,29,Basico de mantenimiento de motores fuera de borda de dos y cuatro tiempos
+2016,20,Oaxaca,106,Basico de seguiridad para pescadores riberenos
+2016,20,Oaxaca,46,Basico de seguiridad para pescadores riberenos
+2016,20,Oaxaca,61,Basico de seguiridad para pescadores riberenos
+2016,20,Oaxaca,136,Basico de seguiridad para pescadores riberenos
+2016,20,Oaxaca,100,Basico de seguiridad para pescadores riberenos
+2016,20,Oaxaca,114,Basico de seguiridad para pescadores riberenos
+2016,20,Oaxaca,10,Prestadores de servicios turisticos
+2016,23,Quintana Roo,79,Basico de seguiridad para pescadores riberenos
+2016,25,Sinaloa,28,Basico de mantenimiento de motores fuera de borda de dos y cuatro tiempos
+2016,25,Sinaloa,30,Basico de mantenimiento de motores fuera de borda de dos y cuatro tiempos
+2016,25,Sinaloa,27,Basico de mantenimiento de motores fuera de borda de dos y cuatro tiempos
+2016,25,Sinaloa,30,Basico de mantenimiento de motores fuera de borda de dos y cuatro tiempos
+2016,25,Sinaloa,30,Basico de mantenimiento de motores fuera de borda de dos y cuatro tiempos
+2016,25,Sinaloa,27,Basico de mantenimiento de motores fuera de borda de dos y cuatro tiempos
+2016,25,Sinaloa,25,Formacion Basica
+2016,25,Sinaloa,17,Formacion Basica
+2016,28,Tamaulipas,147,Basico de seguiridad para pescadores riberenos
+2016,28,Tamaulipas,71,Basico de seguiridad para pescadores riberenos
+2016,28,Tamaulipas,64,Basico de seguiridad para pescadores riberenos
+2016,28,Tamaulipas,77,Basico de seguiridad para pescadores riberenos
+2016,28,Tamaulipas,165,Basico de seguiridad para pescadores riberenos
+2016,28,Tamaulipas,162,Basico de seguiridad para pescadores riberenos
+2016,28,Tamaulipas,60,Basico de seguiridad para pescadores riberenos
+2016,28,Tamaulipas,140,Basico de seguiridad para pescadores riberenos
+2016,28,Tamaulipas,41,Basico de seguiridad para pescadores riberenos
+2016,28,Tamaulipas,34,Prestadores de servicios turisticos
+2016,28,Tamaulipas,39,Prestadores de servicios turisticos
+2016,29,Tlaxcala,39,Basico de seguiridad para pescadores riberenos
+2016,30,Veracruz de Ignacio de la Llave de Ignacio de la Llave de Ignacio de la Llave,30,Basico de seguiridad para pescadores riberenos
+2016,30,Veracruz de Ignacio de la Llave de Ignacio de la Llave de Ignacio de la Llave,32,Basico de seguiridad para pescadores riberenos
+2016,30,Veracruz de Ignacio de la Llave de Ignacio de la Llave de Ignacio de la Llave,25,Basico de seguiridad para pescadores riberenos
+2016,30,Veracruz de Ignacio de la Llave de Ignacio de la Llave de Ignacio de la Llave,20,Basico de seguiridad para pescadores riberenos
+2016,30,Veracruz de Ignacio de la Llave de Ignacio de la Llave de Ignacio de la Llave,21,Basico de seguiridad para pescadores riberenos
+2016,31,Yucatan,85,Basico de seguiridad para pescadores riberenos
+2016,31,Yucatan,180,Basico de seguiridad para pescadores riberenos
+2016,31,Yucatan,274,Basico de seguiridad para pescadores riberenos
+2016,31,Yucatan,175,Basico de seguiridad para pescadores riberenos
+2016,31,Yucatan,125,Basico de seguiridad para pescadores riberenos
+2016,31,Yucatan,61,Basico de seguiridad para pescadores riberenos
+2016,31,Yucatan,21,Basico de mantenimiento de motores fuera de borda de dos y cuatro tiempos
+2016,31,Yucatan,33,Basico de seguiridad para pescadores riberenos
+2016,31,Yucatan,12,Basico de mantenimiento de motores fuera de borda de dos y cuatro tiempos
+2016,31,Yucatan,16,Basico de mantenimiento de motores fuera de borda de dos y cuatro tiempos
+2016,31,Yucatan,11,Basico de mantenimiento de motores fuera de borda de dos y cuatro tiempos
+2016,32,Zacatecas,28,Basico de seguiridad para pescadores riberenos
+2016,32,Zacatecas,29,Basico de seguiridad para pescadores riberenos
+2016,32,Zacatecas,18,Basico de seguiridad para pescadores riberenos
+2016,32,Zacatecas,28,Basico de mantenimiento de motores fuera de borda de dos y cuatro tiempos
+2016,32,Zacatecas,29,Basico de mantenimiento de motores fuera de borda de dos y cuatro tiempos
+2016,32,Zacatecas,18,Basico de mantenimiento de motores fuera de borda de dos y cuatro tiempos
+2017,2,Baja California,540,Basico de Seguridad para Pescadores Riberenos
+2017,2,Baja California,38,Basico de Mantenimiento de Motores Fuera de Borda
+2017,4,Campeche,251,Basico de Seguridad para Pescadores Riberenos
+2017,7,Chiapas,654,Basico de Seguridad para Pescadores Riberenos
+2017,7,Chiapas,30,Basico de Mantenimiento de Motores Fuera de Borda
+2017,12,Guerrero,359,Basico de Seguridad para Pescadores Riberenos
+2017,14,Jalisco,421,Basico de Seguridad para Pescadores Riberenos
+2017,14,Jalisco,65,Basico de Mantenimiento de Motores Fuera de Borda
+2017,20,Oaxaca,513,Basico de Seguridad para Pescadores Riberenos
+2017,20,Oaxaca,51,Basico de Mantenimiento de Motores Fuera de Borda
+2017,23,Quintana Roo,82,Basico de Seguridad para Pescadores Riberenos
+2017,23,Quintana Roo,49,Basico de Mantenimiento de Motores Fuera de Borda
+2017,25,Sinaloa,1735,Basico de Seguridad para Pescadores Riberenos
+2017,25,Sinaloa,110,Basico de Mantenimiento de Motores Fuera de Borda
+2017,26,Sonora,125,Basico de Seguridad para Pescadores Riberenos
+2017,26,Sonora,11,Prestadores de servicios turisticos
+2017,26,Sonora,62,Basico de Mantenimiento de Motores Fuera de Borda
+2017,30,Veracruz de Ignacio de la Llave,297,Basico de Seguridad para Pescadores Riberenos
+2017,31,Yucatan,397,Basico de Seguridad para Pescadores Riberenos
